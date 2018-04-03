@@ -110,3 +110,20 @@ i {
     font-size: 30px;
     color: #dd4b39;
 }
+
+/*CONTACT PAGE*/
+
+#wufoo-mu1dl841rgdk89 {
+   width: 500px;
+   margin: 10px ;
+   display: inline-block;
+   text-align: center;
+}
+.container {
+    text-align: center;
+    margin: 20px
+}
+.container-2 {
+    text-align: center
+    
+}
