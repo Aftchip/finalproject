@@ -1,0 +1,112 @@
+/*FONTS
+font-family: 'Oswald', sans-serif;
+font-family: 'Orbitron', sans-serif;
+*/
+
+/*
+body {
+    background-image: url(http://cdn.akc.org/Marketplace/Breeds/Cane_Corso_SERP.jpg)*/
+    
+    /*HEADER STYLE*/
+    
+#header {
+    background-color: black;
+}
+.logo {
+   width: 150px;
+   border-radius: 100%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.header-text {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    margin: inherit;
+    
+}
+h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: white;
+}
+h2 {
+    font-size: 18px;
+    color: red;
+    padding-bottom: 10px
+    
+}
+    /*NAV BAR*/
+    
+.header-nav{
+    background-color: rgb(255, 0, 0);
+    padding: 1px
+}
+#nav {
+    list-style: none;
+    text-align: center;
+}
+.header-link {
+    display: inline-block;
+    margin: 0 50px ;
+    border: solid #fff;
+    background-color: black;
+    color: white;
+    padding: 5px 15px
+}
+.header-link:hover {
+    background-color: #ff0000;
+}
+    /*BODY*/
+    
+#body-text {
+        font-family: 'Orbitron', sans-serif;
+        color: #000;
+        font-weight: 500;
+}
+.body-paragraph {
+    font-weight: 500;
+}
+.body-img {
+    float: right;
+    margin-left: 20px
+}
+.welcome-text {
+    font-family: 'Oswald', sans-serif;
+}
+.welcome-img {
+    height: 300px;
+}
+.content {
+    overflow: auto;
+}
+    
+    /*FOOTER*/
+    
+.footer {
+    box-shadow: 0px 0px 10px 0px #ccc;
+    background-color: #000;
+}
+.footer-text {
+    display: inline-block;
+    color: #fff;
+    margin-left: 10px;
+}
+
+i {
+    padding-right: 30px;
+    float: right;
+    margin-top: 15px
+}
+.fa-facebook {
+    font-size: 30px;
+    color: #3c5a98;
+}
+.fa-twitter{
+    font-size: 30px;
+    color: #34cbff;
+}
+.fa-google-plus{
+    font-size: 30px;
+    color: #dd4b39;
+}
