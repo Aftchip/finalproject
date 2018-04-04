@@ -112,7 +112,11 @@ i {
 }
 
 /*CONTACT PAGE*/
-
+#contact-info {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
 #wufoo-mu1dl841rgdk89 {
    width: 500px;
    margin: 10px ;
@@ -125,5 +129,60 @@ i {
 }
 .container-2 {
     text-align: center
-    
 }
+/*ABOUT US PAGE*/
+.content-1 {
+    margin: 10px;
+}
+
+.left{ 
+    display: inline-block;
+}
+
+.content-image {
+     width: 200px;
+     transform: rotate(90deg);        
+     margin-top: 10px;  
+     padding: 20px;
+}
+.content-image:hover {
+    width: 500px;
+}
+
+.right p {
+    width: 100%;
+    margin: 0 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.right {
+    display: inline-block;
+    width: 70%;
+}
+.content-2 {
+    margin: 10px;
+}
+.content-3 div {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+}
+.info-list {
+    margin: 10px;
+}
+h4 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.list {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
